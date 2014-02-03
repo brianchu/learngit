@@ -8,3 +8,22 @@
 
 ====== Level 6 ======
 
+---++ Releases
+   * Find it in the Google Play Store --&gt; https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.weather
+   * Yippee! Find it in the iTunes App Store --&gt; https://itunes.apple.com/us/app/yahoo!-weather/id628677149?ls=1&mt=8
+
+---++ Dashboard
+   * http://yo/weatherdashboard (http://brinkdrink.corp.gq1.yahoo.com/src/home.php)
+   * http://yms.ops.yahoo.com/yql/ygrapher/dashboard?dashboard=VHOST%20-%20mobileweather.yql.yahooapis.com
+
+---++ Onboarding to use the Mobile Weather feed
+   * [[YahooWeatherProjectFeed][Click here to get started]]
+
+---++ (awesome) reviews
+   * http://venturebeat.com/2013/08/15/yahoos-stupid-gorgeous-weather-app-launches-on-android/
+   * ...
+
+---++ BETA FEEDBACK
+   * (Android) Use Livewall paper to show the Flickr picture
+   * (iOS) in UserVoice
+   * The rest of the feedback can be found in ilist weather-support
